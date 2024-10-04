@@ -11,7 +11,6 @@ import PortfolioByTag from '@/views/portfolio/PortfolioByTag.vue'
 import PortfolioTest from '@/views/portfolio/PortfolioTest.vue'
 import PortfolioLayout from '@/components/layout/PortfolioLayout.vue' // 중첩 라우팅의 부모 레이아웃
 import TaliwindResopon from '@/views/TaliwindResopon.vue'
-//import NotFoundPage from '@/views/NotFoundPage.vue' // 404 페이지
 
 const routes = [
   {
